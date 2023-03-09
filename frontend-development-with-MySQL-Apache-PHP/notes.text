@@ -1,0 +1,7 @@
+- Open and read the PHP files index_forWelcome.php and welcome.php using Notepad++. The index_forWelcome.php file generates a form which includes three text fields: (1) Department Name, (2) Building, and (3) Budget and a Submit button. When you Press the Submit button, it will call the welcome.php file. The file welcome.php gets the data inserted by the form (index_forWelcome.php) and insert the data to the “universitydb” database you created in previous homework. 
+
+- Run and practice the PHP files files index_forWelcome.php and welcome.php. To run, put both files into MCIS5133 folder you create in previous homework. Then in your xampp control panel, start both Apache and MySQL. Finally, in your web browser (e.g., Google Chrome), put localhost/mcis5133/index_forWelcome.php and press Enter. You should be able to see the output.
+
+- Modify the above two files to insert data into Student table using a form.
+
+What to submit: Create a report by putting snapshots showing your modified index_forWelcome.php and welcome.php files are running successfully (that is output screens in web browser). Submit the report and modified index_forWelcome.php and welcome.php files which includes the codes you added.

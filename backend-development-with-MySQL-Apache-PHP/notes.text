@@ -1,0 +1,16 @@
+- Open and read the PHP file “indexForDMLPractice.php” using Notepad++. This file shows you how to connect to the database “universitydb” you created in previous homework. In addition, this file shows you how can you manipulate data in your database using PHP. This file is an example of backend of database application. 
+
+- Run and practice the PHP file “indexForDMLPractice.php”. How to run a PHP file? Create a folder named “MCIS5133” in htdocs folder inside your xampp folder (i.e., C:\xampp\htdocs\ MCIS5133). Put the PHP file “indexForDMLPractice.php” into MCIS5133 folder you created, i.e., C:\xampp\htdocs\MCIS5133\ indexForDMLPractice.php. Now, in your xampp control panel, start both Apache and MySQL. Finally, in your web browser (e.g., Google Chrome), put localhost/mcis5133/indexForDMLPractice.php and press Enter. You should be able to see the output.  
+
+- Following the codes in this file “indexForDMLPractice.php”, add codes to perform the followings:
+    - Insert following data in the department table:
+        - English-Jennings-10000
+        - Journalism-Morrill-1500
+    - Insert following data in the Student table
+        - 11111-david-physics-3.5
+    - Increase the budget of English department by 10 percent
+    - Change the building of Journalism department to Jennings. 
+    - Print all data of student table
+    - Print the building of English department
+
+What to submit: Create a report by putting snapshots showing your indexForDMLPractice.php is running successfully (that is output screens in web browser for each SQL command in php file). Submit the report and revised indexForDMLPractice.php which includes the codes you added.
